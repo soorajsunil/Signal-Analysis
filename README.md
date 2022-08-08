@@ -8,9 +8,9 @@ The Matlab script generates signal samples, sensor array measurements and perfro
 DOA_MUSIC.m
 ```
 <p align="center">
-<img src="plots/signal.bmp" width="700" height="500"> 
-<img src="plots/measurements.bmp" width="700" height="500"> 
-<img src="plots/doa.bmp" width="700" height="500"> 
+<img src="Matlab/git_plots/doa_signals.bmp" width="320" height="250"> 
+<img src="Matlab/git_plots/doa_measurements.bmp" width="320" height="250"> 
+<img src="Matlab/git_plots/doa.bmp" width="320" height="250"> 
 </p>
 
 **References:**  
