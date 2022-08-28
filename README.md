@@ -1,5 +1,5 @@
 # signal-fundamentals
-Useful Matlab scripts and Python notebooks for future references :)
+"Signals and systems" related Matlab scripts and Python notebooks for future references :)
 
 
 ### Simulate waveforms 
