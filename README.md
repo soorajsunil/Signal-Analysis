@@ -14,9 +14,9 @@ The Matlab script simulates narrowband signals, sensor array measurements of the
 DOA_MUSIC.m
 ```
 <p align="center">
-<img src="Matlab/git_plots/doa_signals.bmp" width="270" height="200"> 
-<img src="Matlab/git_plots/doa_measurements.bmp" width="270" height="200"> 
-<img src="Matlab/git_plots/doa.bmp" width="270" height="200"> 
+<img src="Matlab/plots/doa_signals.bmp" width="270" height="200"> 
+<img src="Matlab/plots/doa_measurements.bmp" width="270" height="200"> 
+<img src="Matlab/plots/doa.bmp" width="270" height="200"> 
 </p>
 
 **References:**  
