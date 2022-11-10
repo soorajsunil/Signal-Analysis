@@ -1,13 +1,11 @@
 # signal-fundamentals
-"Signals and systems" related Matlab scripts and Python notebooks for future references :)
-
+Signals related scripts and notebooks for references :)
 
 ### Simulate waveforms 
 Simulates sinusoids, square waves
 ```
 waveforms.ipynb
 ```
-
 ### Direction of arrival (DOA) estimation using MUSIC algorithm 
 The Matlab script simulates narrowband signals, sensor array measurements of the signals, and estimate direction of arrival (DOA) of the signals using the MUSIC algorithm. 
 ```
