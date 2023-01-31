@@ -1,5 +1,5 @@
-# signal-fundamentals
-Signals related scripts and notebooks for references :)
+# Signal-Analysis
+Fundamentals of signal analysis. 
 
 ### Simulate waveforms 
 Simulates sinusoids, square waves
