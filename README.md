@@ -1,5 +1,4 @@
 # Signal-Analysis
-Fundamentals of signal analysis. 
 
 ### Direction of arrival (DOA) estimation using MUSIC algorithm 
 The Matlab script simulates narrowband signals, sensor array measurements of the signals, and estimate direction of arrival (DOA) of the signals using the MUSIC algorithm. 
